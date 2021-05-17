@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "got": "^11.8.2",
+    "http": "^0.0.1-security",
+    "http-proxy": "^1.18.1",
+    "node-fetch": "^2.6.1",
+    "tunnel": "^0.0.6"
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Gender",
+      "value" : "Male"
+    }, {
+      "trait_type" : "Eye color",
+      "value" : "Blue"
+    },{
+      "trait_type" : "Hair color",
+      "value" : "Blue"
+    } ],
+    "description" : "Vegeta -  A character from anime , Dragon Ball Super",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmUToSTTm5B1xXeGPLQa4AwX9RMdb4sJcQe74y2C76HJuK",
+    "name" : "Vegeta"
+}
